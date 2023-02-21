@@ -2,11 +2,12 @@
 
 This directory contains a collection of sample HTTP servers you can use to consume webhooks from Plain.
 
-Plain only supports HTTPS webhook endpoint URLs. The servers included here are bound to `localhost`, so you will need a tool like `localtunnel` or `ngrok` to expose your server to the internet.
+Plain only supports HTTPS webhook endpoint URLs. The servers included here are bound to `localhost`, so you will need a tool like [`localtunnel`](https://theboroer.github.io/localtunnel-www/) or [`ngrok`](https://ngrok.com) to expose your server to the internet.
 
 Pick any of the following tools and follow the instructions below to get started.
 
 ## localtunnel
+
 
 First, install `localtunnel` globally:
 
